@@ -1,3 +1,14 @@
+body{
+	background: #ffa94d;
+	color: darkolivegreen;
+}
+h1{
+	font-family: cursive;
+	font-size: 50px;
+}
+h4{
+	font-size: 18px;
+}
 .container {
 	text-align: center;
 }
